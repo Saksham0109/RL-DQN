@@ -1,8 +1,12 @@
 # Taxi
 Implemented DQN on Taxi Environment and a custom made Environment using Stable Baselines3.
+
 Being new to RL,I first decided to implement DQN(RL algorithm) to the well known Taxi environment.
+
 Then i made a custom environment involving a delivery system that the agent had to learn.
+
 I tried implementing DQN on this alongside finetuning the reward function.
+
 The agent showed significant improvement which i have saved in the tensorboard files.
 
 ## TaxiEnv
