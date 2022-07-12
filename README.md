@@ -1,4 +1,4 @@
-# Taxi
+# RL-DQN
 Implemented DQN on Taxi Environment and a custom made Environment using Stable Baselines3.
 
 Being new to RL,I first decided to implement DQN(RL algorithm) to the well known Taxi environment.
